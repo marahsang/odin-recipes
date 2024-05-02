@@ -24,3 +24,11 @@
     border-radius: 5%;
     width: 400px;
   }
+
+  ul {
+    list-style-type: none;
+  }
+
+  ol.ol-items {
+    list-style: none;
+}
