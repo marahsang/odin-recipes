@@ -45,3 +45,7 @@ h1 {
     flex-wrap: wrap;
     gap: 10px;
   }
+
+  ul.list-text {
+    margin-bottom: 10px;
+  }
