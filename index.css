@@ -42,4 +42,6 @@ h1 {
   ul.images {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
   }
