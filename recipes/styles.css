@@ -32,3 +32,8 @@
   ol.ol-items {
     list-style: none;
 }
+
+.container .gap-btn {
+  display: flex;
+justify-content: center;
+}
