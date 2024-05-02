@@ -29,3 +29,8 @@ body {
     list-style-type: none;
     text-align: center;
   }  
+
+  .recipes-container a {
+    text-decoration: none;
+    color: rgb(109, 4, 26);
+  }
