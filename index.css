@@ -38,3 +38,8 @@ h1 {
     text-decoration: none;
     color: rgb(109, 4, 26);
   }
+
+  ul.images {
+    display: flex;
+    justify-content: center;
+  }
