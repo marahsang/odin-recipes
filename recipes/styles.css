@@ -18,3 +18,9 @@
     margin: 0 auto;
     padding: 0 30px;
   }
+
+  img {
+    height: 400px;
+    border-radius: 5%;
+    width: 400px;
+  }
